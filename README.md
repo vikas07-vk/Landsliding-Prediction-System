@@ -1,1 +1,0 @@
-# Landsliding-Prediction-System
