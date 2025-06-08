@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "jsx": "react-jsx", // Required for React 17+ JSX transform
+    "allowJs": true,
+    "noImplicitAny": false,
+    "noUnusedParameters": false,
+    "noUnusedLocals": false,
+    "strictNullChecks": false,
+    "skipLibCheck": true
+  },
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
