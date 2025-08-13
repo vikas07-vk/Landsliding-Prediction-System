@@ -82,7 +82,15 @@ npm run build
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of your application here for better presentation)*
+<img width="1268" height="611" alt="1" src="https://github.com/user-attachments/assets/76794aca-aad9-4338-9006-04d203e52f2a" />
+<img width="1263" height="616" alt="2" src="https://github.com/user-attachments/assets/7e4efb84-6611-4b60-91b4-4da411239ebc" />
+<img width="1267" height="613" alt="3" src="https://github.com/user-attachments/assets/00d7915a-ddd9-4d39-be9b-3bff0553f170" />
+<img width="788" height="619" alt="4" src="https://github.com/user-attachments/assets/d326a2f0-69e8-423d-86b1-09193bad04ff" />
+<img width="977" height="620" alt="5" src="https://github.com/user-attachments/assets/ce93a53e-687b-4db6-a3b6-5889d7c87321" />
+
+
+
+
 
 ---
 
@@ -101,9 +109,3 @@ To contribute:
 This project is licensed under the **MIT License** – feel free to use, modify, and distribute it.
 
 ---
-
-## 👤 Author
-**Vikas Kumar**  
-📧 Email: *[Your Email]*  
-🔗 GitHub: [vikas07-vk](https://github.com/vikas07-vk)  
-🔗 LinkedIn: *[Your LinkedIn Profile]*  
